@@ -1,0 +1,5 @@
+1. Copiar lo repetido a otro lado
+2. Parametrizar lo que cambia
+3. Nombrar la nueva abstracción
+4. Usar la nueva abstracción
+
